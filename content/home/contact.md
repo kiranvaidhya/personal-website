@@ -18,7 +18,7 @@ content:
   # Contact details (edit or remove options as required)
   email: kiranvaidhya.venkadesh@radboudumc.nl
   address:
-    street: Geert Groeteplein
+    street: Geert Grooteplein Zuid 10
     city: Nijmegen
     region: Gelderland
     postcode: '6525 GA'
