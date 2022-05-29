@@ -1,5 +1,5 @@
 ---
-title: Pulmonary Nodule Malignancy Prediction
+title: Lung nodule analysis
 summary: Analysis of lung nodules on chest CT images with deep learning algorithms
 tags:
   - Deep Learning
