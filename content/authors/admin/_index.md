@@ -10,7 +10,7 @@ role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Diagnostic Image Analysis Group, Radboudumc
+  - name: Diagnostic Image Analysis Group
     url: https://www.diagnijmegen.nl/
 
 # Short bio (displayed in user profile at end of posts)
