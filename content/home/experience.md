@@ -53,6 +53,15 @@ experience:
     date_end: '2017-05-31'
     description: Developed deep learning algorithms for medical data analysis
 
+  - title: Research Intern
+    company: Philips Healthcare
+    company_url: 'https://www.philips.co.in/a-w/about-philips/healthcare-innovation-campus.html'
+    company_logo: philips
+    location: Pune, India
+    date_start: '2014-12-08'
+    date_end: '2015-05-31'
+    description: Developed an image registration tool to align spinal images from mobile C-Arm systems
+    
 design:
   columns: '2'
 ---
