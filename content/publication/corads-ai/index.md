@@ -49,7 +49,7 @@ authors:
   - Bram van Ginneken
 
 date: '2020-07-30T00:00:00Z'
-doi: '10.1148/radiol.2021204433'
+doi: '10.1148/radiol.2020202439'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-05-29T00:00:00Z'
