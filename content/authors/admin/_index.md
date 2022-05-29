@@ -68,5 +68,3 @@ highlight_name: true
 Kiran is a PhD candidate at [**Radboud University Medical Center**](https://www.radboudumc.nl). He works within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and his interests revolve around the use of deep learning algorithms for medical image analysis.
 
 He is supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). His PhD thesis is on AI for lung cancer screening. As part of his work at DIAG, he also spends 10% of his time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
