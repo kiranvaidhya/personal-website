@@ -64,8 +64,10 @@ email: 'kiranvaidhya93@gmail.com'
 highlight_name: true
 ---
 
-🏥I'm a PhD candidate at a Dutch hospital called Radboudumc. I work within the Diagnostic Image Analysis Group (DIAG), and my interests revolve around the use of deep learning algorithms for medical image analysis.
+🏥I'm a PhD candidate at a Dutch hospital called **[Radboudumc](https://www.radboudumc.nl)**. I work within the **[Diagnostic Image Analysis Group (DIAG)](https://www.diagnijmegen.nl)**, and my interests revolve around the use of **deep learning algorithms for medical image analysis**.
 
-🎓I'm supervised by and Colin Jacobs, Bram van Ginneken, and Mathias Prokop. My PhD thesis is on AI for lung cancer screening. Under the lung cancer image analysis group led by Colin, we develop and validate deep learning algorithms for early detection of lung cancer from chest CT images. In my first publication, we showed that deep learning algorithms are comparable to clinical experts at predicting lung cancer risk. This story was also covered by the Telegraph. 😊
+🎓I'm supervised by and [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My PhD thesis is on AI for lung cancer screening. Under the [**lung cancer image analysis group**](https://www.diagnijmegen.nl/research/lung-cancer-image-analysis/) led by Colin, we develop and validate deep learning algorithms for early detection of lung cancer from chest CT images. In my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433), we showed that deep learning algorithms are comparable to clinical experts at predicting lung cancer risk. This story was also covered by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)**. 😊 
+
+🔮For the next couple of years, I will be exploring ways to optimize and automate lung cancer screening with deep learning algorithms. As part of my work at DIAG, I also spend 10% of my time providing support for users of **[grand-challenge.org](https://grand-challenge.org)**. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
