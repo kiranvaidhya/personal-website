@@ -25,7 +25,7 @@ experience:
   - title: VP Engineering
     company: Predible
     company_url: 'https://www.predible.com'
-    company_logo: org-gc
+    company_logo: predible-logo
     location: Bangalore
     date_start: '2017-06-01'
     date_end: '2019-07-31'
@@ -39,7 +39,7 @@ experience:
   - title: Algorithms Researcher
     company: Predible
     company_url: 'https://www.predible.com'
-    company_logo: org-x
+    company_logo: predible-logo
     location: Bangalore
     date_start: '2016-06-01'
     date_end: '2017-05-31'
