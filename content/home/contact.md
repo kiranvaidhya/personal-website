@@ -34,8 +34,8 @@ content:
     country: Netherlands
     country_code: NL
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '51.8236'
+    longitude: '5.8612'
   directions: Route 767, Room 32
   office_hours:
     - 'Monday 10:00 to 17:00 CET'
@@ -47,10 +47,6 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/kiranvaidhya93'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
 
 design:
   columns: '2'
