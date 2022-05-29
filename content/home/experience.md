@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 65
 
 title: Experience
 subtitle:
@@ -61,7 +61,7 @@ experience:
     date_start: '2014-12-08'
     date_end: '2015-05-31'
     description: Developed an image registration tool to align spinal images from mobile C-Arm systems
-    
+
 design:
   columns: '2'
 ---

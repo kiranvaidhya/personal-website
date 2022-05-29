@@ -14,11 +14,12 @@ organizations:
     url: https://www.diagnijmegen.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kiran's research interests include medical image analysis, computer vision, and machine learning
+bio: My research interests include medical image analysis, computer vision, and deep learning
 
 # Interests to show in About widget
 interests:
   - Medical Image Analysis
+  - Lung Cancer Screening
   - Computer Vision
   - Deep Learning
 
