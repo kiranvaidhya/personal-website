@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: PhD candidate
+    company: Radboudumc
+    company_url: 'https://www.radboudumc.nl'
+    company_logo: predible-logo
+    location: Nijmegen, Netherlands
+    date_start: '2019-11-01'
+    date_end: '2020-10-31'
+    description: AI for lung cancer screening
+
   - title: VP Engineering
     company: Predible
     company_url: 'https://www.predible.com'
