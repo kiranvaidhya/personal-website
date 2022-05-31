@@ -28,7 +28,7 @@ experience:
       company_logo: predible-logo
       location: Nijmegen, Netherlands
       date_start: '2019-11-01'
-      # date_end: ''
+      date_end: '2023-10-31'
       description: AI for lung cancer screening
 
   - title: VP Engineering
