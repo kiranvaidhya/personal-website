@@ -26,7 +26,7 @@ experience:
   - title: PhD candidate
     company: Radboudumc
     company_url: 'https://www.radboudumc.nl'
-    company_logo: predible-logo
+    company_logo: radboudumc
     location: Nijmegen, Netherlands
     date_start: '2019-11-01'
     date_end: '2020-10-31'
