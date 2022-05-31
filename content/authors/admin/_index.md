@@ -65,6 +65,8 @@ email: 'kiranvaidhya.venkadesh@radboudumc.nl'
 highlight_name: true
 ---
 
-Hi! I am a PhD candidate at [**Radboud University Medical Center**](https://www.radboudumc.nl). I work within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and my research interests revolve around the use of deep learning algorithms for medical image analysis.
+Hi! I am a PhD candidate at [**Radboud University Medical Center**](https://www.radboudumc.nl). I work within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and my research interests revolve around the use of deep learning (DL) algorithms for medical image analysis.
 
-I am supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My PhD thesis is on AI for lung cancer screening. As part of my work at DIAG, I also 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). 
+I am supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My PhD thesis is on AI for lung cancer screening. As part of my work at DIAG, I also spend 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). 
+
+Prior to my PhD, I worked at an early-stage startup called [Predible](https://www.predible.com) for three years, where we developed DL algorithms for wrist x-ray, chest CT, and abdomen CT analysis. Predible has been fully-acquired by [nference](https://www.nference.com).

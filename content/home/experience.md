@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  # - title: PhD candidate
-  #     company: Radboudumc
-  #     company_url: 'https://www.radboudumc.nl'
-  #     company_logo: predible-logo
-  #     location: Nijmegen, Netherlands
-  #     date_start: '2019-11-01'
-  #     date_end: '-'
-  #     description: AI for lung cancer screening
+  - title: PhD candidate
+      company: Radboudumc
+      company_url: 'https://www.radboudumc.nl'
+      company_logo: predible-logo
+      location: Nijmegen, Netherlands
+      date_start: '2019-11-01'
+      date_end:
+      description: AI for lung cancer screening
   - title: VP Engineering
     company: Predible
     company_url: 'https://www.predible.com'
@@ -38,11 +38,9 @@ experience:
     date_start: '2017-06-01'
     date_end: '2019-07-31'
     description: |2-
-        Responsibilities include:
-        
-        * Development
-        * Validation
-        * Deployment
+        Responsible for the development, validation, and deployment of deep learning algorithms for 
+        * Chest CT analysis
+        * Multi-phasic abdomen CT analysis
 
   - title: Algorithms Researcher
     company: Predible
@@ -51,7 +49,16 @@ experience:
     location: Bangalore, India
     date_start: '2016-06-01'
     date_end: '2017-05-31'
-    description: Developed deep learning algorithms for medical data analysis
+    description: Developed deep learning algorithms for fracture detection in wrist x-rays, radiology reports, and liver segmentation from abdomen CT images
+
+  - title: Dual Degree Thesis
+    company: Department of Engineering Design, IIT Madras
+    company_url: 'https://www.iitm.ac.in/'
+    company_logo: iit-madras
+    location: Chennai, India
+    date_start: '2015-06-01'
+    date_end: '2016-04-30'
+    description: Worked on stacked denoising autoencoders for brain tumor segmentation from MRI
 
   - title: Research Intern
     company: Philips Healthcare
@@ -60,7 +67,7 @@ experience:
     location: Pune, India
     date_start: '2014-12-08'
     date_end: '2015-05-31'
-    description: Developed an image registration tool to align spinal images from mobile C-Arm systems
+    description: Developed an image registration tool to align pre-operative and post-operative fluoroscopic images of the spine from mobile C-Arm systems
 
 design:
   columns: '2'
