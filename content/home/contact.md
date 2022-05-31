@@ -17,10 +17,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: kiranvaidhya.venkadesh@radboudumc.nl
-  address:
-    city: Nijmegen
-    country: Netherlands
-    country_code: NL
   appointment_url: 'https://calendly.com/kiranvaidhya93'
   contact_links:
     - icon: twitter
