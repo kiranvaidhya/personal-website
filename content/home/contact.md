@@ -18,20 +18,9 @@ content:
   # Contact details (edit or remove options as required)
   email: kiranvaidhya.venkadesh@radboudumc.nl
   address:
-    street: Geert Grooteplein Zuid 10
     city: Nijmegen
-    region: Gelderland
-    postcode: '6525 GA'
     country: Netherlands
     country_code: NL
-  coordinates:
-    latitude: '51.8236'
-    longitude: '5.8612'
-  directions: Route 767, Room 32
-  office_hours:
-    - 'Monday 10:00 to 17:00 CET'
-    - 'Tuesday 10:00 to 17:00 CET'
-    - 'Friday 10:00 to 17:00 CET'
   appointment_url: 'https://calendly.com/kiranvaidhya93'
   contact_links:
     - icon: twitter

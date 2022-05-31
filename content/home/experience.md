@@ -29,7 +29,6 @@ experience:
     company_logo: radboudumc
     location: Nijmegen, Netherlands
     date_start: '2019-11-01'
-    # date_end: '2020-10-31'
     description: AI for lung cancer screening
 
   - title: VP Engineering
@@ -39,10 +38,7 @@ experience:
     location: Bangalore, India
     date_start: '2017-06-01'
     date_end: '2019-07-31'
-    description: |2-
-        Responsible for the development, validation, and deployment of deep learning algorithms for 
-        * Chest CT analysis
-        * Multi-phasic abdomen CT analysis
+    description: Responsible for the development, validation, and deployment of deep learning algorithms for tri-phasic abdomen CT analysis and chest CT analysis
 
   - title: Algorithms Researcher
     company: Predible
