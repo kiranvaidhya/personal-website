@@ -29,7 +29,7 @@ experience:
     company_logo: radboudumc
     location: Nijmegen, Netherlands
     date_start: '2019-11-01'
-    date_end: '2020-10-31'
+    # date_end: '2020-10-31'
     description: AI for lung cancer screening
 
   - title: VP Engineering
