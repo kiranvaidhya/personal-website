@@ -11,7 +11,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: 'https://www.diagnijmegen.nl/software/pulmonary-nodule-malignancy-prediction/'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:
