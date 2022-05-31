@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech & M.Tech in Engineering Design
+    - course: B.Tech & M.Tech in Engineering Design (Specialization in Biomedical Design)
       institution: IIT Madras
       year: 2016
 
