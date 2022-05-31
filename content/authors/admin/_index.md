@@ -26,7 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech & M.Tech in Engineering Design (Specialization in Biomedical Design)
+    - course:
+      B.Tech & M.Tech in Engineering Design
+      (Specialization in Biomedical Design)
       institution: IIT Madras
       year: 2016
 
@@ -69,7 +71,7 @@ highlight_name: true
 
 🧑🏽‍🎓 I am supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My PhD thesis is on AI for lung cancer screening, with a focus on early lung cancer detection from chest CT images. As part of my work at DIAG, I also spend 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org).
 
-🛠️ Prior to my PhD, I worked at an early-stage startup called [**Predible**](https://www.predible.com) (acquired by [**nference**](https://nference.com)) for three years, where we developed DL algorithms for wrist x-ray, chest CT, and abdomen CT analysis.) 
+🛠️ Prior to my PhD, I worked at an early-stage startup called [**Predible**](https://www.predible.com) (acquired by [**nference**](https://nference.com)) for three years, where we developed DL algorithms for wrist x-ray, chest CT, and abdomen CT analysis.
 
 ✍️ I also volunteer as an editor for the [**Gradient**](https://www.thegradient.pub). I am responsible for outreach, and I also help edit articles to make sure they meet our publication standards.
 
