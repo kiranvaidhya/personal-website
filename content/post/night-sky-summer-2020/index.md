@@ -52,11 +52,11 @@ When I did spot Capella, it was just a matter of seconds before I saw the comet 
 I lost my breath and bellowed across my window as the adrenaline rushed through my body.
 A frantic few minutes followed as I put together a series of contraptions to ensure the comet was within the field of view of my phone.
 
-![](images/comet-neowise.jpg)
+![](comet-neowise.jpg)
 
 I wish I had stepped out into the open fields to capture this beauty. The Sun was rising fast and the window of opportunity was closing. I did manage to get a few more shots.
 
-![](images/comet-neowise-a.jpg)
+![](comet-neowise-a.jpg)
 
 # Andromeda
 
@@ -64,7 +64,7 @@ There is something mystical about the Andromeda galaxy.
 It is moving towards us at a speed of 110km per second and is predicted to collide and merge with our galaxy in ~4.5 billion years, like dancing partners twirling into each other's arms.
 Edwin Hubble's observations of Cepheid variables in the Andromeda galaxy also provided substantial evidence towards the fact that the great "nebula" in Andromeda was actually extragalactic in nature, further uncovering a larger, grander and a humbling universe.
 
-![](images/andromeda.jpg)
+![](andromeda.jpg)
 
 Image produced by stacking 10 images of one minute exposures using Sequator. It's amazing what Google's astrophotography mode can capture these days.
 Kudos to the Google AI team for producing a modern day marvel. A few decades ago, it must have been hard to imagine that pocket phones could capture the structures of Andromeda today.
