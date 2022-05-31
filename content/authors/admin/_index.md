@@ -59,12 +59,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'kiranvaidhya93@gmail.com'
+email: 'kiranvaidhya.venkadesh@radboudumc.nl'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Kiran is a PhD candidate at [**Radboud University Medical Center**](https://www.radboudumc.nl). He works within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and his interests revolve around the use of deep learning algorithms for medical image analysis.
+Hi! I am a PhD candidate at [**Radboud University Medical Center**](https://www.radboudumc.nl). I work within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and my research interests revolve around the use of deep learning algorithms for medical image analysis.
 
-He is supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). His PhD thesis is on AI for lung cancer screening. As part of his work at DIAG, he also spends 10% of his time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). 
+I am supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My PhD thesis is on AI for lung cancer screening. As part of my work at DIAG, I also 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). 
