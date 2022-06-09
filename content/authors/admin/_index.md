@@ -69,10 +69,10 @@ highlight_name: true
 
 👋 Hi! I am a PhD candidate at [**Radboud University Medical Center**](https://www.radboudumc.nl). I work within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and my research interests revolve around the use of deep learning algorithms for medical image analysis.
 
-🧑🏽‍🎓 I am supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My PhD thesis is on AI for lung cancer screening, with a focus on early lung cancer detection from chest CT images. As part of my work at DIAG, I also spend 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org).
+🧑🏽‍🎓 I am supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My PhD thesis is on AI for lung cancer screening, with a focus on early lung cancer detection from low-dose chest CT images. As part of my work at DIAG, I also spend 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org).
 
 🛠️ Prior to my PhD, I worked at an early-stage startup called [**Predible**](https://www.predible.com) (acquired by [**nference**](https://nference.com)) for three years, where we developed deep learning algorithms for wrist x-ray, chest CT, and abdomen CT analysis.
 
-✍️ I also volunteer as an editor for the [**Gradient**](https://www.thegradient.pub). I am responsible for outreach, and I also help edit articles to make sure they meet the publication standards.
+✍️ I also volunteer as an editor for [**The Gradient**](https://www.thegradient.pub). I am responsible for outreach, and I help edit articles to make sure they meet the publication standards.
 
-❤️ During my free time, I love to play outdoor sports, and read about astronomy and stargaze. 🌟
+❤️ During my free time, I love to play outdoor sports, stargaze, and read about astronomy.
