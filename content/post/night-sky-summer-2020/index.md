@@ -1,6 +1,6 @@
 ---
 title: Experiments with Astrophotography
-subtitle: Longing for a relationship with the night sky
+subtitle: Modern smartphones provide a rapidly improving experience for astrophotography enthusiasts. In this post, I explore some objects that were visible in the northern hemisphere during summer 2020.
 
 # Summary for listings and search engines
 summary: The summer of 2020 was a depressing time because of the COVID-19 pandemic. But the astrophotography mode in Android phones started to become very powerful at capturing deep sky objects, and the night sky decided to put on a show for a lifetime. 
