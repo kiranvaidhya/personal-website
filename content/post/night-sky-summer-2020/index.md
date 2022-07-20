@@ -55,7 +55,7 @@ I wish I had stepped out into the open fields to capture this beauty. The Sun wa
 
 # Andromeda
 
-There is something mystical about the Andromeda galaxy. Edwin Hubble's observations of Cepheid variables in the Andromeda galaxy also provided substantial evidence towards the fact that the great "nebula" in Andromeda was actually extragalactic in nature, further uncovering a larger, grander and a humbling universe. It is moving towards us at a speed of 110km per second and is predicted to collide and merge with our Milky Way galaxy in ~4.5 billion years, like dancing partners twirling into each other's arms.
+There is something mystical about the Andromeda galaxy. Edwin Hubble's observations of Cepheid variables in the Andromeda galaxy also provided substantial evidence towards the fact that the great "nebula" in Andromeda was actually extragalactic in nature, further uncovering a larger, grander, and a humbling universe. It is moving towards us at a speed of 110km per second and is predicted to collide and merge with our Milky Way galaxy in ~4.5 billion years, like dancing partners twirling into each other's arms.
 
 
 ![](andromeda.jpg)
