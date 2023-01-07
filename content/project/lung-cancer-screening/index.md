@@ -1,14 +1,15 @@
 ---
-title: Lung nodule analysis
-summary: Analysis of lung nodules on chest CT images with deep learning algorithms
+title: AI for lung cancer screening
+summary: Analysis of chest CT images with deep learning algorithms
 tags:
   - Deep Learning
   - Lung Nodules
+  - Lung Cancer
   - CT
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.diagnijmegen.nl/software/pulmonary-nodule-malignancy-prediction/'
+external_link: 'https://www.diagnijmegen.nl/projects/lung-cancer-screening/'
 
 image:
   # caption: Photo by rawpixel on Unsplash

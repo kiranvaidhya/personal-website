@@ -35,7 +35,7 @@ publication_short: In *Radiology*
 # Summary. An optional shortened abstract.
 summary: A deep learning algorithm for estimating malignancy risk of lung nodules from chest CT scans
 
-tags: [Deep Learning, Lung cancer, CT]
+tags: [Deep Learning, Lung Cancer, Lung Nodules, CT]
 
 # Display this page in the Featured widget?
 featured: true
