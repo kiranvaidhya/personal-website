@@ -75,4 +75,4 @@ highlight_name: true
 
 ✍️ I also volunteer as an editor for [**The Gradient**](https://www.thegradient.pub). I am responsible for outreach, and I help edit articles to make sure they meet the publication standards.
 
-❤️ During my free time, I love to play outdoor sports, stargaze, and read about astronomy.
+💙 During my free time, I love to play outdoor sports, read books and, occasionally, stargaze.
