@@ -67,12 +67,10 @@ email: 'kiranvaidhya.venkadesh@radboudumc.nl'
 highlight_name: true
 ---
 
-👋 Hi! I am a PhD candidate at [**Radboud University Medical Center**](https://www.radboudumc.nl). I work within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and my research interests revolve around the use of deep learning algorithms for medical image analysis.
+👋 Hi! I am a postdoctoral researcher at [**Radboud University Medical Center**](https://www.radboudumc.nl). I work within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and my research interests revolve around the design and development of AI algorithms in radiology. I currently work with [**Alessa Hering**](https://www.diagnijmegen.nl/people/alessa-hering/) in the [COMFORT](https://comfort-ai.eu/) project. 
 
-🧑🏽‍🎓 I am supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My PhD thesis is on AI for lung cancer screening, with a focus on early lung cancer detection from low-dose chest CT images. As part of my work at DIAG, I also spend 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org).
+🧑🏽‍🎓 For my PhD research, I was supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My thesis is on AI for lung cancer screening, with a focus on early lung cancer detection from low-dose chest CT examinations. As part of PhD research, I spent 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). I also volunteered as an editor for [**The Gradient**](https://www.thegradient.pub). I was responsible for outreach, and I edited articles to make sure they met the publication standards.
 
 🛠️ Prior to my PhD, I worked at an early-stage startup called Predible (acquired by [**nference**](https://nference.com)) for three years, where we developed deep learning algorithms for wrist x-ray, chest CT, and abdomen CT analysis.
-
-✍️ I also volunteer as an editor for [**The Gradient**](https://www.thegradient.pub). I am responsible for outreach, and I help edit articles to make sure they meet the publication standards.
 
 💙 During my free time, I love to play outdoor sports, read books and, occasionally, stargaze.
