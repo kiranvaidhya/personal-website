@@ -16,14 +16,14 @@ organizations:
     url: https://www.radboudumc.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include medical image analysis, computer vision, and deep learning.
+bio: My research interests revolve around the use of AI in radiology.
 
 # Interests to show in About widget
 interests:
-  - Medical Image Analysis
-  - Lung Cancer Screening
-  - Computer Vision
-  - Deep Learning
+  - Artificial intelligence
+  - Radiology
+  - Medical image analysis
+  - Lung cancer screening
 
 # Education to show in About widget
 education:
