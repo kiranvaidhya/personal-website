@@ -6,7 +6,7 @@ title: Kiran Vaidhya Venkadesh
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -67,7 +67,7 @@ email: 'kiranvaidhya.venkadesh@radboudumc.nl'
 highlight_name: true
 ---
 
-👋 Hi! I am a postdoctoral researcher at [**Radboud University Medical Center**](https://www.radboudumc.nl). I work within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and my research interests revolve around the design and development of AI algorithms in radiology. I currently work with [**Alessa Hering**](https://www.diagnijmegen.nl/people/alessa-hering/) in the [COMFORT](https://comfort-ai.eu/) project. 
+👋 Hi! I am a postdoctoral researcher at [**Radboud University Medical Center**](https://www.radboudumc.nl). I work within the [**Diagnostic Image Analysis Group (DIAG)**](https://www.diagnijmegen.nl), and my research interests revolve around the design and development of AI algorithms in radiology. I currently work with [**Alessa Hering**](https://www.diagnijmegen.nl/people/alessa-hering/) in the [**COMFORT**](https://comfort-ai.eu/) project. 
 
 🧑🏽‍🎓 For my PhD research, I was supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My thesis is on AI for lung cancer screening, with a focus on early lung cancer detection from low-dose chest CT examinations. As part of PhD research, I spent 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). I also volunteered as an editor for [**The Gradient**](https://www.thegradient.pub). I was responsible for outreach, and I edited articles to make sure they met the publication standards.
 
