@@ -80,7 +80,7 @@ projects:
 ## Background
 Prior chest CT provides valuable temporal information (eg, changes in nodule size or appearance) to accurately estimate malignancy risk.
 
-# Purpose
+## Purpose
 To develop a deep learning (DL) algorithm that uses a current and prior low-dose CT examination to estimate 3-year malignancy risk of pulmonary nodules.
 
 ## Materials and Methods 
