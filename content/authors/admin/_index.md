@@ -71,7 +71,7 @@ highlight_name: true
 
 🧑🏽‍🎓 For my PhD research, I was supervised by [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). My thesis is on AI for lung cancer screening, with a focus on early lung cancer detection from chest CT scans. In my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433), we showed that deep learning algorithms are comparable to clinical experts at predicting lung cancer risk. This story was also covered by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)**. 😊 
 
-As part of my PhD research, I spent 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). I also volunteered as an editor for [**The Gradient**](https://www.thegradient.pub). I was responsible for outreach, and I edited articles to make sure they met the publication standards. 
+👥 As part of my PhD research, I spent 10% of my time providing support for users of [**grand-challenge.org**](https://grand-challenge.org). I also volunteered as an editor for [**The Gradient**](https://www.thegradient.pub). I was responsible for outreach, and I edited articles to make sure they met the publication standards. 
 
 🛠️ Prior to my PhD, I worked at an early-stage startup called Predible (acquired by [**nference**](https://nference.com)) for three years, where we developed deep learning algorithms for wrist x-ray, chest CT, and abdomen CT analysis.
 
