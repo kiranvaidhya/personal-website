@@ -28,7 +28,16 @@ experience:
     company_url: 'https://www.radboudumc.nl'
     company_logo: radboudumc
     location: Nijmegen, Netherlands
+    date_start: '2024-06-01'
+    description: Fellow at the Faculty of Impact
+
+  - title: Postdoctoral researcher
+    company: Radboudumc
+    company_url: 'https://www.radboudumc.nl'
+    company_logo: radboudumc
+    location: Nijmegen, Netherlands
     date_start: '2023-11-01'
+    date_end: '2024-05-31'
     description: Improving urological cancer care with AI
 
   - title: PhD candidate
@@ -49,7 +58,7 @@ experience:
     date_end: '2019-07-31'
     description: Responsible for the development, validation, and deployment of deep learning algorithms for tri-phasic abdomen CT analysis and chest CT analysis
 
-  - title: Algorithms Researcher
+  - title: Algorithms researcher
     company: Predible
     company_url: 'https://www.predible.com'
     company_logo: predible-logo
@@ -67,7 +76,7 @@ experience:
     date_end: '2016-04-30'
     description: Worked on stacked denoising autoencoders for brain tumor segmentation from MRI
 
-  - title: Research Intern
+  - title: Research intern
     company: Philips Healthcare
     company_url: 'https://www.philips.co.in/a-w/about-philips/healthcare-innovation-campus.html'
     company_logo: philips
