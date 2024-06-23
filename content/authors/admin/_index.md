@@ -67,8 +67,6 @@ email: 'kiranvaidhya.venkadesh@radboudumc.nl'
 highlight_name: true
 ---
 
-<h1 align="center">Hi there 🌞 I'm Kiran </h1>
-
 👋 I am currently a Postdoctoral Fellow in the 2nd edition of the [**NWO Faculty of Impact**](https://facultyofimpact.nl/) and a researcher at [**Radboud University Medical Center**](https://www.radboudumc.nl). My research focuses on the design and development of Radiology AI algorithms.
 
 🧑🏽‍🎓 I completed my PhD research under the supervision of [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Alessa Hering**](https://www.diagnijmegen.nl/people/alessa-hering/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). I defended my PhD thesis on AI for lung cancer screening in May 2024. In my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433), we demonstrated that deep learning algorithms can predict lung cancer risk as effectively as clinical experts. This work was also featured by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)**. 😊 After my PhD, I briefly collaborated with Alessa Hering on the [**COMFORT**](https://comfort-ai.eu/) project.
