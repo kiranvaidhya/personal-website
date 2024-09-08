@@ -1,5 +1,5 @@
 ---
-title: Exploring Astrophotography: Capturing the Night Sky with a Smartphone
+title: Exploring Astrophotography - Capturing the Night Sky with a Smartphone
 subtitle: With rapid advancements in smartphone technology, astrophotography is becoming more accessible. In this post, I share my experience photographing celestial objects visible in the northern hemisphere during the summer of 2020.
 
 # Summary for listings and search engines
