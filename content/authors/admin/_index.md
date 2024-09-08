@@ -6,7 +6,7 @@ title: Kiran Vaidhya Venkadesh
 superuser: true
 
 # Role/position/tagline
-role: Radiology AI Entrepreneur | Postdoctoral researcher
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,7 +65,7 @@ email: 'kiranvaidhya.venkadesh@radboudumc.nl'
 highlight_name: true
 ---
 
-👋 I am currently a Postdoctoral Fellow in the 2nd edition of the [**NWO Faculty of Impact**](https://facultyofimpact.nl/) and a researcher at [**Radboud University Medical Center**](https://www.radboudumc.nl). My interests revolve around the design and development of Radiology AI algorithms.
+👋 I am Kiran. I am an entrepreneur in Radiology AI. I work as a postdoctoral fellow in the 2nd edition of the [**NWO Faculty of Impact**](https://facultyofimpact.nl/), and I'm based out of [**Radboud University Medical Center**](https://www.radboudumc.nl). My interests revolve around the design and development of AI algorithms for radiology.
 
 🧑🏽‍🎓 I completed my PhD research under the supervision of [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Alessa Hering**](https://www.diagnijmegen.nl/people/alessa-hering/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). I defended my PhD thesis on AI for lung cancer screening in May 2024. In my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433), we demonstrated that deep learning algorithms can predict lung cancer risk as effectively as clinical experts. This work was also featured by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)**. 😊 After my PhD, I briefly collaborated with Alessa Hering on the [**COMFORT**](https://comfort-ai.eu/) project.
 
