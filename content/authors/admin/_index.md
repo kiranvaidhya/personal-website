@@ -21,11 +21,13 @@ interests:
   - Artificial intelligence
   - Radiology
   - Medical image analysis
-  - Cancer detection
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in AI for lung cancer screening
+      institution: Radboudumc
+      year: 2024
     - course: B.Tech & M.Tech in Engineering Design (Specialization in Biomedical Design)
       institution: IIT Madras
       year: 2016
