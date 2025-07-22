@@ -6,12 +6,12 @@ title: Kiran Vaidhya Venkadesh
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Co-founder, CTO at Plain Medical
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Radboudumc
-    url: https://www.radboudumc.nl/
+  - name: Plain Medical
+    url: https://www.plain-medical.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests revolve around the use of AI in radiology.
@@ -65,7 +65,7 @@ email: 'kiranvaidhya.venkadesh@radboudumc.nl'
 highlight_name: true
 ---
 
-👋 Hi, my name is Kiran, and I am an entrepreneur focused on developing AI solutions for radiology. I work as a postdoctoral fellow in the 2nd edition of the [**NWO Faculty of Impact**](https://facultyofimpact.nl/), and I'm based out of [**Radboud University Medical Center**](https://www.radboudumc.nl).
+👋 Hi! My name is Kiran. I am a co-founder and the CTO of [**Plain Medical**](https://www.plain-medical.com), a Dutch startup that develops AI solutions for radiology. We are partially supported by the Dutch government through the [**Faculty of Impact**](https://facultyofimpact.nl/) program.
 
 🧑🏽‍🎓 I completed my PhD research under the supervision of [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Alessa Hering**](https://www.diagnijmegen.nl/people/alessa-hering/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). I defended my PhD thesis on AI for lung cancer screening in May 2024. In my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433), we demonstrated that deep learning algorithms can predict lung cancer risk as effectively as clinical experts. This work was also featured by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)**. 😊 After my PhD, I briefly collaborated with Alessa Hering on the [**COMFORT**](https://comfort-ai.eu/) project.
 
@@ -73,4 +73,4 @@ During my PhD, I dedicated 10% of my time to supporting users of [**grand-challe
 
 🛠️ Before pursuing my PhD, I worked for three years at an early-stage startup called Predible (acquired by [**nference**](https://nference.com)), where we developed deep learning algorithms for analyzing wrist x-ray, chest CT, and abdomen CT images.
 
-💙 In my free time, I enjoy playing outdoor sports, reading books, and occasionally stargazing.
+💙 Outside of work, I enjoy cooking, playing sports, and occasionally stargazing.
