@@ -11,7 +11,7 @@ role: Co-founder, CTO at Plain Medical
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Plain Medical
-    url: https://www.plain-medical.nl/
+    url: https://www.plain-medical.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests revolve around the use of AI in radiology.
