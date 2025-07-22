@@ -6,7 +6,7 @@ title: Kiran Vaidhya Venkadesh
 superuser: true
 
 # Role/position/tagline
-role: Co-founder, CTO at Plain Medical
+role: Co-founder and CTO
 
 # Organizations/Affiliations to show in About widget
 organizations:
