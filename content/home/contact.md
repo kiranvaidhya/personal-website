@@ -16,7 +16,6 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: kiranvaidhya.venkadesh@radboudumc.nl
   appointment_url: 'https://calendly.com/kiranvaidhya93'
   contact_links:
     - icon: twitter

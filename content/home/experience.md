@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: CTO
+    company: Plain Medical
+    company_url: 'https://plain-medical.com'
+    company_logo: plain
+    location: Nijmegen, Netherlands
+    date_start: '2025-06-01'
+    description: Responsible for development, validation, and deployment of radiology AI algorithms
+
   - title: Postdoctoral researcher
     company: Radboudumc
     company_url: 'https://www.radboudumc.nl'
