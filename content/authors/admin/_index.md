@@ -11,7 +11,7 @@ role: Co-founder and CTO
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Plain Medical
-    url: https://www.plain-medical.com/
+    url: https://plain-medical.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests revolve around the use of AI in radiology.
@@ -65,7 +65,7 @@ social:
 highlight_name: true
 ---
 
-👋 Hi! My name is Kiran. I am a co-founder and the CTO of [**Plain Medical**](https://www.plain-medical.com), a Dutch startup that develops AI solutions for radiology. We are partially supported by the Dutch government through the [**Faculty of Impact**](https://facultyofimpact.nl/) program.
+👋 Hi! My name is Kiran. I am a co-founder and the CTO of [**Plain Medical**](https://plain-medical.com). We develop AI solutions for radiology. We are partially supported by the Dutch government through the [**Faculty of Impact**](https://facultyofimpact.nl/) program.
 
 🧑🏽‍🎓 I completed my PhD research under the supervision of [**Colin Jacobs**](https://www.diagnijmegen.nl/people/colin-jacobs/), [**Alessa Hering**](https://www.diagnijmegen.nl/people/alessa-hering/), [**Bram van Ginneken**](https://www.diagnijmegen.nl/people/bram-van-ginneken/), and [**Mathias Prokop**](https://www.diagnijmegen.nl/people/mathias-prokop/). I defended my PhD thesis on AI for lung cancer screening in May 2024. In my first [**publication**](https://pubs.rsna.org/doi/full/10.1148/radiol.2021204433), we demonstrated that deep learning algorithms can predict lung cancer risk as effectively as clinical experts. This work was also featured by the **[Telegraph](https://www.telegraph.co.uk/news/2021/05/18/artificial-intelligence-just-good-picking-lung-cancer-doctors/)**. 😊 After my PhD, I briefly collaborated with Alessa Hering on the [**COMFORT**](https://comfort-ai.eu/) project.
 
